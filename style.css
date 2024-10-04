@@ -1,0 +1,35 @@
+body {
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: center;
+    background-image: url('FundoBranco.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 100%;
+}
+ 
+ 
+ 
+.box {
+    width:300px;
+    margin:0 auto;
+    background-color:rgba(255, 255, 255, 0);
+    padding:0px 1x 10px 8px;
+    margin-top: 130px;
+}
+ 
+ 
+.box .input {
+    width:100%;
+    margin-bottom: 10px;
+   
+}
+.input {
+    background-color: rgb(255, 255, 255);
+    height: 20px;
+    size-adjust: 500px;
+}
+ 
+form{
+    width:98%;
+}
+ 
